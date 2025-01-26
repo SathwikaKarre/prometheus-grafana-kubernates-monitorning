@@ -12,6 +12,11 @@ kubectl CLI tool installed
 
 Helm installed (for easy deployment)
 
+Architecture diagram:
+
+![image](https://github.com/user-attachments/assets/4ebb6b4d-7bd1-4853-8541-27db514d6b13)
+
+
 
 ## Steps to Integrate Prometheus and Grafana with Kubernetes
 
